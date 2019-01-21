@@ -2,8 +2,5 @@
 
 A simple mobile calculator built using Flutter and Material Design.
 
-## Getting Started
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<img alt="Circle" align="left" width="250" src="https://github.com/rcunda/simple_calculator/blob/master/assets/portrait.png">
+<img alt="Circle" align="left" height="250" src="https://github.com/rcunda/simple_calculator/blob/master/assets/landscape.png">
